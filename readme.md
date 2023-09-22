@@ -1,9 +1,18 @@
-# Business Analyst CHALLENGE: 
+###Business Analyst CHALLENGE:
+#Repository Access
+The project repository is set to public access, allowing all members of the Influrr and Neuraldesign teams to easily access the files and resources.
 
-The repository es public so everyone at Influrr and Neuraldesign have access to the files.
+#Test Answer
+You will find the answer in the "Test_Answer" PDF document.
 
-The Dashboard is in PDF format, but also you can find the original Link in the "Test_Answer" PDF every other answer.
+#Dashboard Access
+The project dashboard is available in PDF format.
+You can also find the original link to the dashboard in the "Test_Answer" PDF document, alongside other relevant information.
 
-There are two Python scripts, one is ".py" and the other one ".ipynb".
+#Python Scripts
+This repository includes two Python scripts:
+1. One script is in the ".py" format.
+2. The other script is in ".ipynb" format, which is a Jupyter Notebook file.
 
-If you have any question, feel free to send me an email to fede.wolff1@gmail.com
+##Questions and Assistance
+Should you have any questions, you can contact us via email at fede.wolff1@gmail.com, and I'll be more than happy to assist you.
